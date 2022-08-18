@@ -1,11 +1,10 @@
 ---
-published: true
 layout: default-theme-wet-boew-en
 title: Grid system
 hide_breadcrumb: false
 date_modified: 2019-04-11
 ---
-{::nomarkdown}
+
 {% raw %}
   <span class="wb-prettify all-pre"></span>
   <div class="row">
@@ -594,4 +593,3 @@ date_modified: 2019-04-11
   </ul>
   <p class="mrgn-tp-lg text-muted">Some of the code and documentation for this page is sourced from <a href="https://getbootstrap.com/" >Bootstrap<span  class="wb-inv"> (external link)</span></a></p>
 {% endraw %}
-{:/}
